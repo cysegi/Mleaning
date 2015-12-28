@@ -2,7 +2,7 @@
 title: "Assignment 2"
 author: "Chew Yoong, Chang"
 date: "December 27, 2015"
-output: pdf_document
+output: html_document
 ---
 
 ### Data
